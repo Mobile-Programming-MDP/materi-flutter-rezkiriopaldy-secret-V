@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691230535529",
+    "project_id": "tugasmandiri-3788a",
+    "storage_bucket": "tugasmandiri-3788a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691230535529:android:dc3f60ed1f656bbdea17f8",
+        "android_client_info": {
+          "package_name": "com.example.tugas_mandiri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_Bs7cvLnQJyczoQX_29KmHA1pwR3rZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
