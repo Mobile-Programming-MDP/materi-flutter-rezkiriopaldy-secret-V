@@ -196,7 +196,7 @@ class _AddPostScreenState extends State<AddPostScreen> {
     if(_base64Image == null) return;
     setState(() => _isGenerating = true);
     try {
-      const apiKey = 'AIzaSyAcZ92BObPVypO7anSK9MhJeXn0ZyoCgGQ';
+      const apiKey = '';
       const url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=$apiKey";
       final body = jsonEncode({
         "contents": [
